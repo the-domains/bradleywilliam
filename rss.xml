@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BradleyWilliam]]></title>
+        <description><![CDATA[BradleyWilliam]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 02:17:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The sages of India observed thousands of years ago that our destiny is ultimately shaped by our deepest intentions and desires. The classic Vedic text known as the Upanishads declares, “You are what your deepest desire is. As your desire is, so is your intention. As your intention is, so is your will. As your will is, so is your deed. As your deed is, so is your destiny.”</p>]]></description>
+            <link>undefinedthe-sages-of-india-observed-thousands-of-years-ago-that-our/index.html</link>
+            <guid isPermaLink="false">d024de30-61be-4103-a4f7-7499551d3814</guid>
+            <pubDate>Sun, 01 May 2016 02:17:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
