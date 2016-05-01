@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Learn to Know wherever you are it is for a reason.
-datePublished: '2016-05-01T03:48:35.467Z'
-dateModified: '2016-05-01T03:48:12.591Z'
+datePublished: '2016-05-01T04:07:44.538Z'
+dateModified: '2016-05-01T04:07:11.826Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-learn-to-know-wherever-you-are-it-is-for-a-reason.md
@@ -22,8 +22,7 @@ url: learn-to-know-wherever-you-are-it-is-for-a-reason/index.html
 _type: Article
 
 ---
-**_BLESS YOUR LIFE_**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5338139-99b6-4dbe-9801-7606f5f7f39f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee48208-14ee-49ef-9971-c1a2583d1f00.jpg)
 
 Learn to Know wherever you are it is for a reason.
 
