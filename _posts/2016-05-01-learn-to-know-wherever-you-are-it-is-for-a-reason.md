@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Learn to Know wherever you are it is for a reason.
-datePublished: '2016-05-01T03:29:43.392Z'
-dateModified: '2016-05-01T03:26:00.667Z'
+datePublished: '2016-05-01T03:43:45.319Z'
+dateModified: '2016-05-01T03:43:44.352Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-learn-to-know-wherever-you-are-it-is-for-a-reason.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-learn-to-know-wherever-you-are-it-is-for-a-reason.md
-published: true
 url: learn-to-know-wherever-you-are-it-is-for-a-reason/index.html
 _type: Article
 
@@ -58,10 +58,8 @@ Be Grateful to Brain, Spleen Pancreas: Blood, Liver, Kidney (drive, will), Lungs
 \*\*Think of Energy Field. It's the PRESENCE. Includes everyone / everything in the Universe. Everyone before and everyone after. I LOVE YOU to all Beings!
 
 Visualize: Run up a mountain at Supersonic speed. Everything is Strong. Young and Vibrant. Arrive at the Peak: Stand on Peak with Arms out. And feel that Energy and fill it with your body. What Do I intend Here from this Point:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d4cda03-b3a0-4f55-9021-896094691beb.jpg)
 
 Invite Electric Blue Energy from the Universe into top of Chest and moves everywhere inside Body. Into every part of Body. Direct light into any pain areas. "I ACCEPT THE HEALING"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06babfce-ab23-4b89-ba6a-076a9f4d657e.jpg)
 
 Say your intention to yourself...I AM PERFECT HEALTH
 
