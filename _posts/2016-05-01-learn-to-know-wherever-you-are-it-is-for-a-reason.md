@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Learn to Know wherever you are it is for a reason.
-datePublished: '2016-05-01T04:38:02.966Z'
-dateModified: '2016-05-01T04:37:24.759Z'
+datePublished: '2016-05-01T04:41:12.187Z'
+dateModified: '2016-05-01T04:41:03.142Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-learn-to-know-wherever-you-are-it-is-for-a-reason.md
@@ -50,11 +50,11 @@ Be aware of your breastbone, expanding open: Rose gold light emanating.
 
 -Let the body sink down. Slow down your breathing. Breathing into every pore of your skin. Breath out through the holes in front of you and pushes YOU back. Bless your own Self: Bless each Organ and Body Part
 
-(Heart: Circulation and rhythm. "Heart, I Love you. Thank you for Being inside of me.")
+Start with the Heart: Circulation and rhythm. "Heart, I Love you. Thank you for Being inside of me."
 
-Be Grateful to Brain, Spleen Pancreas: Blood, Liver, Kidney (drive, will), Lungs (Brings in fresh life, Connects you to the Present Moment!"
+Be Grateful to Brain, Spleen Pancreas: Blood, Liver, Kidney (drive, will), Lungs, etc. This brings in fresh life, connecting you to the Present Moment!"
 
-\*\*Think of Energy Field. It's the PRESENCE. Includes everyone / everything in the Universe. Everyone before and everyone after. I LOVE YOU to all Beings!
+\*Think of an Energy Field. It's the PRESENCE. Includes everyone / everything in the Universe. Everyone before and everyone after. Picture spreading LOVE to all Beings!
 
 Visualize: Run up a mountain at Supersonic speed. Everything is Strong. Young and Vibrant. Arrive at the Peak: Stand on Peak with Arms out. And feel that Energy and fill it with your body. What Do I intend Here from this Point:
 
