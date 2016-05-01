@@ -1,6 +1,6 @@
 name: BradleyWilliam
 favicon: null
-layout_spectrum: 0.14833
+layout_spectrum: 0.43068
 typography_spectrum: 0.45057
 title: Create.Inspire.Evolve
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#013777'
-    - '#387ad1'
-    - '#7199d7'
-    - '#c2e8f5'
-    - '#4e5484'
-  brandStrength: 0.9375
+    - '#ffffff'
+    - '#6dbcfe'
+    - '#b6dfff'
+    - '#6a8dab'
+    - '#274f82'
+  brandStrength: 0.6875
   lightness: 0.75
   saturation: 0.625
   rhythmicContrast: 0.25
