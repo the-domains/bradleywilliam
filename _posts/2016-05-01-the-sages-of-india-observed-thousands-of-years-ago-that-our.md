@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The sages of India observed thousands of years ago that our destiny is ultimately shaped by our deepest intentions and desires. The classic Vedic text known as the Upanishads declares, “You are what your deepest desire is. As your desire is, so is your intention. As your intention is, so is your will. As your will is, so is your deed. As your deed is, so is your destiny.”'
-datePublished: '2016-05-01T04:32:26.116Z'
-dateModified: '2016-05-01T02:57:33.421Z'
+datePublished: '2016-05-01T04:37:14.285Z'
+dateModified: '2016-05-01T04:34:11.072Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-the-sages-of-india-observed-thousands-of-years-ago-that-our.md
