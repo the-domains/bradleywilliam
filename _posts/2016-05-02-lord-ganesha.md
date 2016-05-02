@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Lord Ganesha: The remover of obstacles and ensures success in human endeavors.'
-datePublished: '2016-05-02T03:39:13.779Z'
-dateModified: '2016-05-02T03:38:52.050Z'
+datePublished: '2016-05-02T03:40:09.104Z'
+dateModified: '2016-05-02T03:39:21.306Z'
 title: ''
 author:
   - name: ''
