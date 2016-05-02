@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Symbol Meanings:'
-datePublished: '2016-05-02T03:30:30.109Z'
-dateModified: '2016-05-02T03:29:36.290Z'
+description: 'Lord Ganesha: The remover of obstacles and ensures success in human endeavors.'
+datePublished: '2016-05-02T03:35:45.459Z'
+dateModified: '2016-05-02T03:35:01.810Z'
 title: ''
 author:
   - name: ''
@@ -26,9 +26,11 @@ _type: Article
 ---
 Lord Ganesha: The remover of obstacles and ensures success in human endeavors.
 
-* Be Happier & Peace of Mind
-* Attain & Maintain a Deep Spiritual Connection
-* Sound: "Om"
+\*Be Happier & Peace of Mind
+
+\*Attain & Maintain a Deep Spiritual Connection
+
+\*Sound: "Om"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fd17534-ec22-40c0-a54e-32b16e2437cd.jpg)
 
 Symbol Meanings:
