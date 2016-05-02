@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Symbol Meanings:'
-datePublished: '2016-05-02T03:19:39.080Z'
-dateModified: '2016-05-02T03:17:50.486Z'
+datePublished: '2016-05-02T03:25:56.546Z'
+dateModified: '2016-05-02T03:19:45.311Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-lord-ganesha.md
