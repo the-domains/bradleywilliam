@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Learn to Know wherever you are it is for a reason.
-datePublished: '2016-05-01T04:41:12.187Z'
-dateModified: '2016-05-01T04:41:03.142Z'
+datePublished: '2016-05-02T03:35:51.902Z'
+dateModified: '2016-05-02T03:33:17.889Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-learn-to-know-wherever-you-are-it-is-for-a-reason.md
@@ -40,7 +40,7 @@ Brings more abundance. The more you give, more you receive.
 
 Manifest your fruits.
 
-Bless your Body Meditation:
+**Bless your Body Meditation:**
 
 Be aware of Surroundings.
 
