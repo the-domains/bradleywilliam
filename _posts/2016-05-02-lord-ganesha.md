@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Symbol Meanings:'
-datePublished: '2016-05-02T03:28:12.081Z'
-dateModified: '2016-05-02T03:26:27.066Z'
+datePublished: '2016-05-02T03:30:30.109Z'
+dateModified: '2016-05-02T03:29:36.290Z'
 title: ''
 author:
   - name: ''
@@ -48,4 +48,3 @@ Symbol Meanings:
 **Laddus / Modaka:** Bestows Wealth & Prosperity. Taste the sweetness of our Inner (Higher) Self: 
 
 -God-
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5869290308eaf247bdf9c2cf44264cd93200e224.jpg)
