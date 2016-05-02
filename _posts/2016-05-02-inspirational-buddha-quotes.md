@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Buddha (Siddhartha Gautama) was born in what is today the country of Nepal around 563 BC. Buddha literally means: "The Enlightened / Awakened One." '
-datePublished: '2016-05-02T03:26:12.968Z'
-dateModified: '2016-05-02T03:18:25.011Z'
+datePublished: '2016-05-02T03:40:02.402Z'
+dateModified: '2016-05-02T03:39:57.043Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-inspirational-buddha-quotes.md
@@ -22,7 +22,9 @@ url: inspirational-buddha-quotes/index.html
 _type: Article
 
 ---
-Buddha (Siddhartha Gautama) was born in what is today the country of Nepal around 563 BC. Buddha literally means: "The Enlightened / Awakened One." ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff91ee9f-1ca3-48df-9244-2c6390b2d48d.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff91ee9f-1ca3-48df-9244-2c6390b2d48d.png)
+
+Buddha (Siddhartha Gautama) was born in what is today the country of Nepal around 563 BC. Buddha literally means: "The Enlightened / Awakened One." 
 
 "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye."
 
