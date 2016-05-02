@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Symbol Meanings:'
-datePublished: '2016-05-02T03:13:17.831Z'
-dateModified: '2016-05-02T02:59:09.249Z'
+datePublished: '2016-05-02T03:19:39.080Z'
+dateModified: '2016-05-02T03:17:50.486Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-lord-ganesha.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: true
-sourcePath: _posts/2016-05-02-lord-ganesha.md
-published: true
+starred: false
 url: lord-ganesha/index.html
 _type: Article
 
