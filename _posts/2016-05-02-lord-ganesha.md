@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Symbol Meanings:'
-datePublished: '2016-05-02T03:25:56.546Z'
-dateModified: '2016-05-02T03:19:45.311Z'
+datePublished: '2016-05-02T03:28:12.081Z'
+dateModified: '2016-05-02T03:26:27.066Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-02-lord-ganesha.md
 published: true
 authors: []
@@ -46,4 +48,4 @@ Symbol Meanings:
 **Laddus / Modaka:** Bestows Wealth & Prosperity. Taste the sweetness of our Inner (Higher) Self: 
 
 -God-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03d5973d-e0f6-41e4-97eb-8a7c3255da68.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5869290308eaf247bdf9c2cf44264cd93200e224.jpg)
